@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <section>
       <h2>Resume</h2>
-      <a href="/assets/resume.pdf" download>Download Resume</a>
+      <a href="./assets/resume.pdf" download>Download Resume</a>
       <h3>Proficiencies</h3>
       <ul>
         <li>HTML</li>
@@ -14,7 +14,6 @@ const Resume = () => {
         <li>Node.js</li>
         <li>Express</li>
         <li>MongoDB</li>
-        {/* Add more proficiencies as needed */}
       </ul>
     </section>
   );

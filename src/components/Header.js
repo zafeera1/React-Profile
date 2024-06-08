@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>Web Developer Portfolio</h1>
+      <h1>My Full Stack Developer Portfolio</h1>
     </header>
   );
 };
